@@ -1,6 +1,7 @@
-# playgrounds
+# Playgrounds
 
-## Kubernetes
+### Kubernetes
 - [Kubernetes Playground](https://labs.play-with-k8s.com/)
-## Compliance
+
+### Compliance
 - [Open Policy Agent](https://play.openpolicyagent.org/)
