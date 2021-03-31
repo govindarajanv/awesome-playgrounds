@@ -2,10 +2,10 @@
 
 ### IDE
 - [Gitpod](https://gitpod.io/workspaces/)
-- 
+
 ### Version Control
 - [Git](https://learngitbranching.js.org/)
-- 
+ 
 ### Containers
 - [Kubernetes Playground](https://labs.play-with-k8s.com/)
 - [Play With k8s](https://training.play-with-kubernetes.com/kubernetes-workshop/)
