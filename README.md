@@ -12,6 +12,7 @@
 - [Docker Playground](https://labs.play-with-docker.com/)
 - [Docker Training](https://training.play-with-docker.com/)
 - [Katacode](https://www.katacoda.com/courses/docker/playground)
+- [ChaosToolkit](https://katacoda.com/chaostoolkit)
 
 ### HashiCorp Tools
 - [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
