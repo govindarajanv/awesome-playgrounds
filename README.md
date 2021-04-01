@@ -23,3 +23,6 @@
 
 ### Compliance
 - [Open Policy Agent](https://play.openpolicyagent.org/)
+
+### Configuration Management
+- [Ansible](https://developers.redhat.com/courses/ansible/web-server)
