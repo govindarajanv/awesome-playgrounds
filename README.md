@@ -18,7 +18,7 @@
 - [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 ### Async API
-- [Async AI](https://playground.asyncapi.io/?load=https://raw.githubusercontent.com/asyncapi/asyncapi/master/examples/2.0.0/simple.yml)
+- [Async AI](https://playground.asyncapi.io/)
 
 ### Compliance
 - [Open Policy Agent](https://play.openpolicyagent.org/)
