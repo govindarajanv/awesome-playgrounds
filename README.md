@@ -2,6 +2,7 @@
 
 ### IDE
 - [Gitpod](https://gitpod.io/workspaces/)
+- [React](https://codesandbox.io/dashboard/home)
 
 ### Version Control
 - [Git](https://learngitbranching.js.org/)
