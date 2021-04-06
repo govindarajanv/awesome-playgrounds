@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/govindarajanv/playgrounds.svg)](http://hits.dwyl.com/govindarajanv/playgrounds)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Playgrounds
 
 ### IDE
