@@ -1,6 +1,7 @@
+[![Triggered Workflow](https://github.com/govindarajanv/awesome-playgrounds/actions/workflows/action.yml/badge.svg)](https://github.com/govindarajanv/awesome-playgrounds/actions/workflows/action.yml)
 [![HitCount](http://hits.dwyl.com/govindarajanv/playgrounds.svg)](http://hits.dwyl.com/govindarajanv/playgrounds)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Triggered Workflow](https://github.com/govindarajanv/awesome-playgrounds/actions/workflows/action.yml/badge.svg)](https://github.com/govindarajanv/awesome-playgrounds/actions/workflows/action.yml)
+
 
 # Playgrounds
 
