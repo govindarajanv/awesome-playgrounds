@@ -5,8 +5,37 @@
 
 ### IDE
 - [Gitpod](https://gitpod.io/workspaces/)
+- [katacoda - vscode](https://www.katacoda.com/courses/vscode/playground)
+
+### Linux
+- [Katacoda](https://www.katacoda.com/courses/linux/playground)
+
+### Code Playground
+
+##### Go
+- [golang](https://play.golang.org/)
+- [goplay](https://goplay.space/)
+- [katacoda](https://www.katacoda.com/courses/golang/playground)
+
+##### Java
+- [katacoda](https://www.katacoda.com/courses/java/playground)
+
+##### Nodejs
+- [Katacoda](https://www.katacoda.com/courses/nodejs/playground)
+
+##### React
 - [React](https://codesandbox.io/dashboard/home)
-- [Python](https://colab.research.google.com/notebooks/intro.ipynb)
+
+##### Ruby
+- [Katacoda](https://www.katacoda.com/courses/ruby/playground)
+
+##### Python
+- [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+- [Katacoda](https://www.katacoda.com/courses/python/playground)
+- [Katacoda - Jupyter](https://www.katacoda.com/courses/jupyter/playground)
+- [Trinket](https://trinket.io/python/f7ad7f9864)
+- [Sololearn](https://code.sololearn.com/cOAXyhEmN1f7)
+- [Tutorialspoint](https://www.tutorialspoint.com/execute_python_online.php)
 
 ### Version Control
 - [Git](https://learngitbranching.js.org/)
@@ -20,8 +49,11 @@
 - [ChaosToolkit](https://katacoda.com/chaostoolkit)
 - [OpenShift](https://developers.redhat.com/courses/openshift/playground-openshift)
 
-### HashiCorp Tools
-- [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+### DevOps
+
+##### Terraform
+- [Hashicorp](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- [Katacoda](https://www.katacoda.com/courses/terraform/playground)
 
 ### Async API
 - [Async AI](https://playground.asyncapi.io/)
