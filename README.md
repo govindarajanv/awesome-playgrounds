@@ -59,11 +59,15 @@
 - [Hashicorp](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - [Katacoda](https://www.katacoda.com/courses/terraform/playground)
 
-### Async API
+### Ansible
+- [Ansible](https://developers.redhat.com/courses/ansible/web-server)
+
+### Others
+
+#### Async API
 - [Async AI](https://playground.asyncapi.io/)
 
-### Compliance
+#### Compliance
 - [Open Policy Agent](https://play.openpolicyagent.org/)
 
-### Configuration Management
-- [Ansible](https://developers.redhat.com/courses/ansible/web-server)
+
