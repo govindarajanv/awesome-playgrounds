@@ -4,7 +4,7 @@
 # Playgrounds
 
 ### IDE
-- [Gitpod](https://gitpod.io/workspaces/)
+- [Gitpod](https://gitpod.io/workspace/)
 - [katacoda - vscode](https://www.katacoda.com/courses/vscode/playground)
 
 ### Linux
