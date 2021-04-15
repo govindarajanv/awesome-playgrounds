@@ -8,29 +8,28 @@
 - [katacoda - vscode](https://www.katacoda.com/courses/vscode/playground)
 
 ### Linux
-- [Katacoda](https://www.katacoda.com/courses/linux/playground)
-- 
+- [Katacoda](https://www.katacoda.com/courses/linux/playground)- 
 
 ### Code Playground
 
-##### Go
+#### Go
 - [golang](https://play.golang.org/)
 - [goplay](https://goplay.space/)
 - [katacoda](https://www.katacoda.com/courses/golang/playground)
 
-##### Java
+#### Java
 - [katacoda](https://www.katacoda.com/courses/java/playground)
 
-##### Nodejs
+#### Nodejs
 - [Katacoda](https://www.katacoda.com/courses/nodejs/playground)
 
-##### React
+#### React
 - [React](https://codesandbox.io/dashboard/home)
 
-##### Ruby
+#### Ruby
 - [Katacoda](https://www.katacoda.com/courses/ruby/playground)
 
-##### Python
+#### Python
 - [Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 - [Katacoda](https://www.katacoda.com/courses/python/playground)
 - [Katacoda - Jupyter](https://www.katacoda.com/courses/jupyter/playground)
@@ -53,10 +52,10 @@
 
 ### DevOps
 
-##### Jenkins
+#### Jenkins
 - [Heroku](https://job-dsl.herokuapp.com/)
 
-##### Terraform
+#### Terraform
 - [Hashicorp](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - [Katacoda](https://www.katacoda.com/courses/terraform/playground)
 
