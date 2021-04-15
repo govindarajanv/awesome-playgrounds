@@ -6,6 +6,7 @@
 ### IDE
 - [Gitpod](https://gitpod.io/workspaces/)
 - [React](https://codesandbox.io/dashboard/home)
+- [Python](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ### Version Control
 - [Git](https://learngitbranching.js.org/)
