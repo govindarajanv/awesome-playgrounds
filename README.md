@@ -9,6 +9,7 @@
 
 ### Linux
 - [Katacoda](https://www.katacoda.com/courses/linux/playground)
+- 
 
 ### Code Playground
 
@@ -48,8 +49,12 @@
 - [Katacode](https://www.katacoda.com/courses/docker/playground)
 - [ChaosToolkit](https://katacoda.com/chaostoolkit)
 - [OpenShift](https://developers.redhat.com/courses/openshift/playground-openshift)
+- [Linux Containers](https://linuxcontainers.org/lxd/try-it/)
 
 ### DevOps
+
+##### Jenkins
+- [Heroku](https://job-dsl.herokuapp.com/)
 
 ##### Terraform
 - [Hashicorp](https://learn.hashicorp.com/tutorials/terraform/install-cli)
