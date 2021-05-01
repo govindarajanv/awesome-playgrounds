@@ -51,6 +51,7 @@
 - [ChaosToolkit](https://katacoda.com/chaostoolkit)
 - [OpenShift](https://developers.redhat.com/courses/openshift/playground-openshift)
 - [Linux Containers](https://linuxcontainers.org/lxd/try-it/)
+- [black](https://black.now.sh/)
 
 ### DevOps
 
