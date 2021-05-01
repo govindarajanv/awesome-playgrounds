@@ -5,6 +5,9 @@
 
 # Playgrounds
 
+### API Development
+- [httpie](https://httpie.io/run)
+
 ### IDE
 - [Gitpod](https://gitpod.io/workspaces/)
 - [katacoda - vscode](https://www.katacoda.com/courses/vscode/playground)
